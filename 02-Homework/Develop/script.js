@@ -5,7 +5,7 @@ var generateBtn = document.querySelector("#generate");
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
-  var 
+  var passoptions = window.prompt("stuff")
 
   passwordText.value = password;
 
