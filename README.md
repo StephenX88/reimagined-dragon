@@ -6,8 +6,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - I gained a better unterstanding of Java script and Github
 
 ## Installation
-no instillation needed. got to https://stephenx88.github.io/reimagined-dragon/
-## Usage
+no instillation needed. got to 
 Visual Studio Codes
 Gitbash
 Github
